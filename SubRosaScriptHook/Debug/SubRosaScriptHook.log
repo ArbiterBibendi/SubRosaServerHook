@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(81,23): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(82,26): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(83,26): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(84,26): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(85,26): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(86,26): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(87,26): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(88,26): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\luawrapper.h(93,12): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\lazer\source\repos\SubRosaScriptHook\SubRosaScriptHook\dllmain.cpp(40): warning C4715: 'hook_detour': not all control paths return a value
+  SubRosaScriptHook.vcxproj -> C:\Users\lazer\source\repos\SubRosaScriptHook\Debug\SubRosaScriptHook.dll
